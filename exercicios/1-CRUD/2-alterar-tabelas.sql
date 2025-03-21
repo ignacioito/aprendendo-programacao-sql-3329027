@@ -1,2 +1,2 @@
-ALTER TABLE salario_classe
-DROP salario;
+ALTER TABLE employees
+ADD id_salario INTEGER;
